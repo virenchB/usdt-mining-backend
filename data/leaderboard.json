@@ -1,0 +1,26 @@
+{
+  "leaderboard": [
+    {
+      "rank": 1,
+      "username": "MiningMaster",
+      "total_earned": 1.25,
+      "level": 15,
+      "avatar": "avatar1.png"
+    },
+    {
+      "rank": 2,
+      "username": "CryptoKing",
+      "total_earned": 1.18,
+      "level": 14,
+      "avatar": "avatar2.png"
+    },
+    {
+      "rank": 3,
+      "username": "USDTMiner",
+      "total_earned": 1.05,
+      "level": 13,
+      "avatar": "avatar3.png"
+    }
+  ],
+  "last_updated": "2024-01-15T10:30:00Z"
+}

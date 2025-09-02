@@ -1,0 +1,45 @@
+{
+  "mining_rewards": {
+    "base_reward": 0.001,
+    "multiplier": 1.5,
+    "max_daily_reward": 0.1,
+    "bonus_rewards": {
+      "daily_login": 0.005,
+      "watch_ad": 0.002,
+      "referral": 0.01
+    }
+  },
+  "quests": {
+    "daily_quests": [
+      {
+        "id": "daily_login",
+        "title": "Daily Login",
+        "description": "Login to the app",
+        "reward": 0.005,
+        "type": "login"
+      },
+      {
+        "id": "watch_ads",
+        "title": "Watch 3 Ads",
+        "description": "Watch 3 advertisement videos",
+        "reward": 0.01,
+        "type": "ads",
+        "target": 3
+      }
+    ]
+  },
+  "achievements": [
+    {
+      "id": "first_mining",
+      "title": "First Mining",
+      "description": "Start your first mining session",
+      "reward": 0.01
+    },
+    {
+      "id": "mining_master",
+      "title": "Mining Master",
+      "description": "Mine for 7 consecutive days",
+      "reward": 0.05
+    }
+  ]
+}

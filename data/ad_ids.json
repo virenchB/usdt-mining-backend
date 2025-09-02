@@ -1,0 +1,25 @@
+{
+  "android": {
+    "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
+    "app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294"
+  },
+  "ios": {
+    "banner_ad_unit_id": "ca-app-pub-3940256099942544/2934735716",
+    "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/4411468910",
+    "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/1712485313",
+    "app_open_ad_unit_id": "ca-app-pub-3940256099942544/5572853021"
+  },
+  "facebook": {
+    "banner_ad_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "interstitial_ad_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "rewarded_ad_unit_id": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID"
+  },
+  "test_mode": true,
+  "ad_frequency": {
+    "interstitial_interval": 3,
+    "rewarded_ads_per_day": 10,
+    "banner_refresh_rate": 60
+  }
+}

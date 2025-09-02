@@ -1,0 +1,42 @@
+{
+  "daily_quests": [
+    {
+      "id": "daily_login",
+      "title": "Daily Login",
+      "description": "Login to the app today",
+      "reward": 0.005,
+      "type": "login",
+      "target": 1,
+      "completed": false
+    },
+    {
+      "id": "watch_ads",
+      "title": "Watch Ads",
+      "description": "Watch 3 advertisement videos",
+      "reward": 0.01,
+      "type": "ads",
+      "target": 3,
+      "completed": false
+    },
+    {
+      "id": "mine_energy",
+      "title": "Mine Energy",
+      "description": "Use 100 energy for mining",
+      "reward": 0.008,
+      "type": "mining",
+      "target": 100,
+      "completed": false
+    }
+  ],
+  "weekly_quests": [
+    {
+      "id": "weekly_mining",
+      "title": "Weekly Mining",
+      "description": "Mine for 5 days this week",
+      "reward": 0.05,
+      "type": "mining",
+      "target": 5,
+      "completed": false
+    }
+  ]
+}

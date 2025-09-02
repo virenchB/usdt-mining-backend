@@ -1,0 +1,45 @@
+{
+  "app_config": {
+    "main": {
+      "withdrawal_date": "December 25, 2025",
+      "withdrawal_message": "We're working hard to bring you secure withdrawal functionality. Our team is implementing advanced security measures and compliance protocols to ensure your funds are protected.",
+      "ads_enabled": true,
+      "primary_ad_network": "google",
+      "enable_banner_ads": true,
+      "enable_interstitial_ads": true,
+      "enable_rewarded_ads": true,
+      "enable_native_ads": true,
+      "enable_app_open_ads": true,
+      "app_version": "1.0.0",
+      "maintenance_mode": false,
+      "maintenance_message": ""
+    }
+  },
+  "ad_config": {
+    "ad_units": {
+      "google_banner_1": "ca-app-pub-3940256099942544/6300978111",
+      "google_banner_2": "ca-app-pub-3940256099942544/6300978111",
+      "google_banner_3": "ca-app-pub-3940256099942544/6300978111",
+      "google_banner_4": "ca-app-pub-3940256099942544/6300978111",
+      "google_banner_5": "ca-app-pub-3940256099942544/6300978111",
+      
+      "google_interstitial_1": "ca-app-pub-3940256099942544/1033173712",
+      "google_interstitial_2": "ca-app-pub-3940256099942544/1033173712",
+      "google_interstitial_3": "ca-app-pub-3940256099942544/1033173712",
+      "google_interstitial_4": "ca-app-pub-3940256099942544/1033173712",
+      "google_interstitial_5": "ca-app-pub-3940256099942544/1033173712",
+      
+      "google_native_1": "ca-app-pub-3940256099942544/2247696110",
+      "google_native_2": "ca-app-pub-3940256099942544/2247696110",
+      "google_native_3": "ca-app-pub-3940256099942544/2247696110",
+      "google_native_4": "ca-app-pub-3940256099942544/2247696110",
+      "google_native_5": "ca-app-pub-3940256099942544/2247696110",
+      
+      "google_rewarded_1": "ca-app-pub-3940256099942544/5224354917",
+      "google_rewarded_2": "ca-app-pub-3940256099942544/5224354917",
+      "google_rewarded_3": "ca-app-pub-3940256099942544/5224354917",
+      
+      "google_app_open": "ca-app-pub-3940256099942544/3419835294"
+    }
+  }
+}
