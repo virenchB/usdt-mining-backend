@@ -1,7 +1,7 @@
 {
   "app_config": {
     "main": {
-      "withdrawal_date": "December 25, 2025",
+      "withdrawal_date": "December 12, 2025",
       "withdrawal_message": "We're working hard to bring you secure withdrawal functionality. Our team is implementing advanced security measures and compliance protocols to ensure your funds are protected.",
       "ads_enabled": true,
       "primary_ad_network": "google",
