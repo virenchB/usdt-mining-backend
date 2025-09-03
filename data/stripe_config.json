@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "secret_key": "sk_test_your_actual_stripe_secret_key_here",
+  "publishable_key": "pk_test_your_actual_stripe_publishable_key_here",
+  "webhook_secret": "whsec_your_webhook_secret_here",
+  "currency": "INR",
+  "merchant_country_code": "IN",
+  "merchant_display_name": "USDT Miner",
+  "description": "USDT Mining App Payment Configuration"
+}
