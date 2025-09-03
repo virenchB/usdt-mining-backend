@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "secret_key": "sk_test_your_actual_stripe_secret_key_here",
-  "publishable_key": "pk_test_your_actual_stripe_publishable_key_here",
+  "secret_key": "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",
+  "publishable_key": "pk_live_51RY1r4P1ZjFzFH9M8EXo7Msmd2TU3UK1P1CacwxGLO2rIGU5vSCeDWFCjIymCpqHsmqx3CwX7CMHddgzMbqM4fRy00YmvjEotk",
   "webhook_secret": "whsec_your_webhook_secret_here",
   "currency": "INR",
   "merchant_country_code": "IN",
