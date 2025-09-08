@@ -12,6 +12,7 @@
     "app_open_ad_unit_id": "ca-app-pub-3940256099942544/5572853021"
   },
   "facebook": {
+    "app_id": "YOUR_FACEBOOK_APP_ID",
     "banner_ad_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "interstitial_ad_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "rewarded_ad_unit_id": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID"
