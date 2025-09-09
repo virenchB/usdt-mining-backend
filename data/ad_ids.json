@@ -19,6 +19,19 @@
     "interstitial_ad_unit_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
     "rewarded_ad_unit_id": "VID_HD_16_9_15S_APP_INSTALL#YOUR_PLACEMENT_ID"
   },
+  "unity": {
+    "game_id": "1234567",
+    "android": {
+      "banner_placement_id": "Banner_Android",
+      "interstitial_placement_id": "Interstitial_Android",
+      "rewarded_placement_id": "Rewarded_Android"
+    },
+    "ios": {
+      "banner_placement_id": "Banner_iOS",
+      "interstitial_placement_id": "Interstitial_iOS",
+      "rewarded_placement_id": "Rewarded_iOS"
+    }
+  },
   "test_mode": true,
   "ad_frequency": {
     "interstitial_interval": 3,
